@@ -449,13 +449,13 @@
     {
       "name": "Roughly Enough Items",
       "curseForgeId": "310111",
-      "version": "[Fabric 1.18.2] v8.3.519",
+      "version": "[Fabric 1.18.2] v8.3.525",
       "files": [
         {
-          "filename": "RoughlyEnoughItems-8.3.519.jar",
+          "filename": "RoughlyEnoughItems-8.3.525.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/3900/969/RoughlyEnoughItems-8.3.519.jar",
-            "sha1": "b5d943a0e980ee6ba27e0fd69aaea6f450c39e64"
+            "url": "https://edge.forgecdn.net/files/3929/177/RoughlyEnoughItems-8.3.525.jar",
+            "sha1": "ef5d02aae16d087cb0ef3150721be2bd0cdc21db"
           }
         }
       ]
@@ -463,13 +463,13 @@
     {
       "name": "Architectury API",
       "curseForgeId": "419699",
-      "version": "[Fabric 1.18.2] v4.8.81",
+      "version": "[Fabric 1.18.2] v4.9.83",
       "files": [
         {
-          "filename": "architectury-4.8.81-fabric.jar",
+          "filename": "architectury-4.9.83-fabric.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/3924/493/architectury-4.8.81-fabric.jar",
-            "sha1": "73543ba963d4548ef782bfe1a380a5bb7b9d185a"
+            "url": "https://edge.forgecdn.net/files/3929/414/architectury-4.9.83-fabric.jar",
+            "sha1": "6cabe5458d7bd5006c650555767941a9c6ff05d1"
           }
         }
       ]
