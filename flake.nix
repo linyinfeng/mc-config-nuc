@@ -38,7 +38,7 @@
           };
           checks = self.packages.${system};
           devShells.default =
-            pkgs.mkShell { packages = with pkgs; [ fup-repl nixfmt fd ]; };
+            pkgs.mkShell { packages = with pkgs; [ fup-repl nixfmt fd sops ]; };
         };
     };
 }

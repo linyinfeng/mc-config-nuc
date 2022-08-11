@@ -10,16 +10,175 @@
       "modrinthId": "P7dR8mSH"
     },
     {
+      "name": "Sodium",
+      "modrinthId": "AANobbMI"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "modrinthId": "Bh37bMuy",
+      "primaryFileOnly": true
+    },
+    {
+      "name": "Sodium Extra",
+      "modrinthId": "PtjYWJkn",
+      "primaryFileOnly": true
+    },
+    {
+      "name": "Lithium",
+      "modrinthId": "gvQqBUqZ"
+    },
+    {
+      "name": "Indium",
+      "modrinthId": "Orvt0mRa"
+    },
+    {
+      "name": "Iris Shaders",
+      "modrinthId": "YL57xq9U"
+    },
+    {
+      "name": "Phosphor",
+      "modrinthId": "hEOCdOgW"
+    },
+    {
+      "name": "Mod Menu",
+      "modrinthId": "mOgUt4GM"
+    },
+    {
+      "name": "FallingTree",
+      "modrinthId": "Fb4jn8m6"
+    },
+    {
+      "name": "LambDynamicLights",
+      "modrinthId": "yBW8D80W"
+    },
+    {
+      "name": "Plasmo Voice",
+      "modrinthId": "1bZhdhsH"
+    },
+    {
+      "name": "AppleSkin",
+      "modrinthId": "EsAfCjCV"
+    },
+    {
+      "name": "CC: Restitched",
+      "modrinthId": "eldBwa5V"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "modrinthId": "XxWD5pD3"
+    },
+    {
+      "name": "Modern Industrialization",
+      "modrinthId": "Gov5Dboq"
+    },
+    {
       "name": "Cloth Config API",
       "modrinthId": "9s6osm5g"
     },
     {
-      "name": "Architectury API",
-      "modrinthId": "lhGA9TYQ"
+      "name": "LuckPerms",
+      "modrinthId": "Vebnzrzj",
+      "fakeGameVersion": "1.18"
+    },
+    {
+      "name": "Essential Commands",
+      "modrinthId": "6VdDUivB"
+    },
+    {
+      "name": "WTHIT",
+      "comment": "What The Hell Is That?",
+      "modrinthId": "6AQIaxuO"
+    },
+    {
+      "name": "bad packets",
+      "modrinthId": "ftdbN0KK"
+    },
+    {
+      "name": "UnifiedMetrics",
+      "modrinthId": "p1ewR5kV",
+      "fakeGameVersion": "1.18"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "modrinthId": "Ha28R6CL"
+    },
+    {
+      "name": "Minecraft Transit Railway",
+      "modrinthId": "XKPAmI6u"
+    },
+    {
+      "name": "Create Fabric",
+      "modrinthId": "Xbc0uyRg",
+      "versionTypeRegex": "release|beta"
+    },
+    {
+      "name": "Simpler Auth",
+      "modrinthId": "TYaqEeAP"
+    },
+    {
+      "name": "Fabric Tailor",
+      "modrinthId": "g8w1NapE"
+    },
+    {
+      "name": "HealthCare",
+      "modrinthId": "NNqujQWr"
+    },
+    {
+      "name": "Creeper Spores",
+      "modrinthId": "WSdgoMoj"
+    },
+    {
+      "name": "Patchouli",
+      "modrinthId": "nU0bVIaL"
+    },
+    {
+      "name": "AE2 Things",
+      "modrinthId": "veunMwU3",
+      "versionTypeRegex": "release|beta"
     },
     {
       "name": "Roughly Enough Items",
       "curseForgeId": "310111"
+    },
+    {
+      "name": "Architectury API",
+      "curseForgeId": "419699"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "curseForgeId": "263420",
+      "versionTypeRegex": "release|beta"
+    },
+    {
+      "name": "Xaero's World Map",
+      "curseForgeId": "317780",
+      "versionTypeRegex": "release|beta"
+    },
+    {
+      "name": "Inventory HUD+",
+      "curseForgeId": "357540",
+      "versionTypeRegex": "release|beta"
+    },
+    {
+      "name": "WorldEdit",
+      "curseForgeId": "225608"
+    },
+    {
+      "name": "Clumps",
+      "curseForgeId": "256717"
+    },
+    {
+      "name": "Croptopia",
+      "curseForgeId": "415438"
+    },
+    {
+      "name": "Dynmap",
+      "curseForgeId": "59433",
+      "versionTypeRegex": "release|beta"
+    },
+    {
+      "name": "megane",
+      "curseForgeId": "408118"
     }
   ]
 }
