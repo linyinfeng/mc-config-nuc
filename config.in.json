@@ -174,7 +174,7 @@
     {
       "name": "Dynmap",
       "curseForgeId": "59433",
-      "versionTypeRegex": "release|beta"
+      "versionTypeRegex": "release"
     },
     {
       "name": "megane",
@@ -183,18 +183,7 @@
     {
       "name": "Create Crafts & Additions",
       "curseForgeId": "439890",
-      "manual": true,
-      "comment": "wait for https://github.com/mrh0/createaddition/pull/303",
-      "version": "1.1+1.18.2",
-      "files": [
-        {
-          "filename": "createaddition+1.18.2-1.1.jar",
-          "file": {
-            "url": "https://github.com/FluffyBumblebees/createaddition/releases/download/Release/createaddition+1.18.2-1.1.jar",
-            "hash": "sha256-ov6QXi/kMVQLi7XPZ8QFTgD6lu7n+hBAHDxnqQ+oUMs="
-          }
-        }
-      ]
+      "versionTypeRegex": "release|beta"
     }
   ]
 }

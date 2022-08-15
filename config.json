@@ -37,13 +37,13 @@
       "name": "Reese's Sodium Options",
       "modrinthId": "Bh37bMuy",
       "primaryFileOnly": true,
-      "version": "mc1.18.2-1.4.5",
+      "version": "mc1.18.2-1.4.6",
       "files": [
         {
-          "filename": "reeses_sodium_options-1.4.5+mc1.18.2-build.50.jar",
+          "filename": "reeses_sodium_options-1.4.6+mc1.18.2-build.54.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.18.2-build.50.jar",
-            "sha512": "91225e74438a2cac692d9de208e0eed9c238980be9a4440673e54683f6d07a79acb101b99714edc575ac22ed5ae1d4cac94c6975f49eecaa17aa0667811fbb72"
+            "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.18.2-build.54.jar",
+            "sha512": "2f7dedd6975688108f9ba9de86b80dd29d7ceba1997bc718ed6aae9f986add9a714421f028e92469f461907515b04258372cd3888470c3ef0a09ff7f8e805162"
           }
         }
       ]
@@ -278,13 +278,13 @@
       "name": "WTHIT",
       "comment": "What The Hell Is That?",
       "modrinthId": "6AQIaxuO",
-      "version": "fabric-4.11.0",
+      "version": "fabric-4.12.0",
       "files": [
         {
-          "filename": "wthit-fabric-4.11.0.jar",
+          "filename": "wthit-fabric-4.12.0.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.11.0/wthit-fabric-4.11.0.jar",
-            "sha512": "223d462dfc636d6d2cc9f69b95ba3664856ae8000f4cfc6e42b63256e7a866fd8790e82285e2dc70d78844fba80e4eaa9027931b7b017ff4e872681bcf81a2ac"
+            "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.12.0/wthit-fabric-4.12.0.jar",
+            "sha512": "358d60d35a4ec6e9ef0e7108aaef210047de9dd0bfd67a2e7e5b3234891c1cf29e9c468b6223911b842c3fc8751c0bbd11370309b6e90933664f1e4434d01513"
           }
         }
       ]
@@ -449,13 +449,13 @@
     {
       "name": "Roughly Enough Items",
       "curseForgeId": "310111",
-      "version": "[Fabric 1.18.2] v8.3.525",
+      "version": "[Fabric 1.18.2] v8.3.527",
       "files": [
         {
-          "filename": "RoughlyEnoughItems-8.3.525.jar",
+          "filename": "RoughlyEnoughItems-8.3.527.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/3929/177/RoughlyEnoughItems-8.3.525.jar",
-            "sha1": "ef5d02aae16d087cb0ef3150721be2bd0cdc21db"
+            "url": "https://edge.forgecdn.net/files/3934/345/RoughlyEnoughItems-8.3.527.jar",
+            "sha1": "e7e8f2bfe2421d94bda94c1dad97e44a89d89b7c"
           }
         }
       ]
@@ -564,14 +564,14 @@
     {
       "name": "Dynmap",
       "curseForgeId": "59433",
-      "versionTypeRegex": "release|beta",
-      "version": "v3.4-beta-5 for Fabric v1.18.2",
+      "versionTypeRegex": "release",
+      "version": "v3.4 for Fabric v1.18.2",
       "files": [
         {
-          "filename": "Dynmap-3.4-beta-5-fabric-1.18.2.jar",
+          "filename": "Dynmap-3.4-fabric-1.18.2.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/3898/439/Dynmap-3.4-beta-5-fabric-1.18.2.jar",
-            "sha1": "0fff339f9ab96078e608536fc348b89a532889aa"
+            "url": "https://edge.forgecdn.net/files/3934/695/Dynmap-3.4-fabric-1.18.2.jar",
+            "sha1": "ae3c97431647be760ed8b697da49797960d3d74e"
           }
         }
       ]
@@ -593,15 +593,14 @@
     {
       "name": "Create Crafts & Additions",
       "curseForgeId": "439890",
-      "manual": true,
-      "comment": "wait for https://github.com/mrh0/createaddition/pull/303",
-      "version": "1.1+1.18.2",
+      "versionTypeRegex": "release|beta",
+      "version": "createaddition-fabric-1.18.2-20220813a",
       "files": [
         {
-          "filename": "createaddition+1.18.2-1.1.jar",
+          "filename": "createaddition+1.18.2-1.18.2-20220813a.jar",
           "file": {
-            "url": "https://github.com/FluffyBumblebees/createaddition/releases/download/Release/createaddition+1.18.2-1.1.jar",
-            "hash": "sha256-ov6QXi/kMVQLi7XPZ8QFTgD6lu7n+hBAHDxnqQ+oUMs="
+            "url": "https://edge.forgecdn.net/files/3932/500/createaddition%2B1.18.2-1.18.2-20220813a.jar",
+            "sha1": "d707a4ea1fe8bec71f3050735a99785c2831bd3e"
           }
         }
       ]
