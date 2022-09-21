@@ -19,10 +19,7 @@
     let utils = flake-utils-plus.lib;
     in utils.mkFlake {
       inherit self inputs;
-      supportedSystems = [
-        "x86_64-linux"
-        "aarch64-linux"
-      ];
+      supportedSystems = [ "x86_64-linux" "aarch64-linux" ];
       outputsBuilder = channels:
         let
           pkgs = channels.nixpkgs;
