@@ -42,6 +42,10 @@
       "versionTypeRegex": "release|beta"
     },
     {
+      "name": "Chunky",
+      "modrinthId": "fALzjamp"
+    },
+    {
       "url": "https://www.curseforge.com/minecraft/mc-mods/dynmapforge",
       "versionTypeRegex": "release|beta"
     },
