@@ -1,189 +1,59 @@
 {
   "server": {
     "game": {
-      "version": "1.18.2"
+      "version": "1.19.3"
     }
   },
   "mods": [
     {
-      "name": "Fabric Api",
-      "modrinthId": "P7dR8mSH"
+      "url": "https://modrinth.com/mod/fabric-api",
+      "versionTypeRegex": "release|beta"
     },
+    "https://modrinth.com/mod/sodium",
     {
-      "name": "Sodium",
-      "modrinthId": "AANobbMI"
-    },
-    {
-      "name": "Reese's Sodium Options",
-      "modrinthId": "Bh37bMuy",
+      "url": "https://modrinth.com/mod/reeses-sodium-options",
       "primaryFileOnly": true
     },
     {
-      "name": "Sodium Extra",
-      "modrinthId": "PtjYWJkn",
+      "url": "https://modrinth.com/mod/sodium-extra",
       "primaryFileOnly": true
     },
-    {
-      "name": "Lithium",
-      "modrinthId": "gvQqBUqZ"
-    },
-    {
-      "name": "Indium",
-      "modrinthId": "Orvt0mRa"
-    },
-    {
-      "name": "Iris Shaders",
-      "modrinthId": "YL57xq9U"
-    },
-    {
-      "name": "Phosphor",
-      "modrinthId": "hEOCdOgW"
-    },
-    {
-      "name": "Mod Menu",
-      "modrinthId": "mOgUt4GM"
-    },
-    {
-      "name": "FallingTree",
-      "modrinthId": "Fb4jn8m6"
-    },
-    {
-      "name": "LambDynamicLights",
-      "modrinthId": "yBW8D80W"
-    },
-    {
-      "name": "Plasmo Voice",
-      "modrinthId": "1bZhdhsH"
-    },
-    {
-      "name": "AppleSkin",
-      "modrinthId": "EsAfCjCV"
-    },
-    {
-      "name": "CC: Restitched",
-      "modrinthId": "eldBwa5V"
-    },
-    {
-      "name": "Applied Energistics 2",
-      "modrinthId": "XxWD5pD3"
-    },
-    {
-      "name": "Modern Industrialization",
-      "modrinthId": "Gov5Dboq"
-    },
-    {
-      "name": "Cloth Config API",
-      "modrinthId": "9s6osm5g"
-    },
-    {
-      "name": "LuckPerms",
-      "modrinthId": "Vebnzrzj",
-      "fakeGameVersion": "1.18"
-    },
-    {
-      "name": "Essential Commands",
-      "modrinthId": "6VdDUivB"
-    },
-    {
-      "name": "WTHIT",
-      "comment": "What The Hell Is That?",
-      "modrinthId": "6AQIaxuO"
-    },
-    {
-      "name": "bad packets",
-      "modrinthId": "ftdbN0KK"
-    },
+    "https://modrinth.com/mod/lithium",
+    "https://modrinth.com/mod/indium",
+    "https://modrinth.com/mod/iris",
+    "https://modrinth.com/mod/starlight",
+    "https://modrinth.com/mod/entityculling",
+    "https://modrinth.com/mod/lazydfu",
+    "https://modrinth.com/mod/ferrite-core",
+    "https://modrinth.com/mod/modmenu",
+    "https://modrinth.com/mod/luckperms",
+    "https://modrinth.com/mod/essential-commands",
+    "https://modrinth.com/mod/wthit",
+    "https://modrinth.com/mod/badpackets",
+    "https://modrinth.com/mod/fabric-language-kotlin",
+    "https://modrinth.com/mod/healthcare",
+    "https://modrinth.com/mod/roughly-enough-items",
+    "https://modrinth.com/mod/cloth-config",
+    "https://modrinth.com/mod/architectury-api",
     {
       "name": "UnifiedMetrics",
       "modrinthId": "p1ewR5kV",
-      "fakeGameVersion": "1.18"
-    },
-    {
-      "name": "Fabric Language Kotlin",
-      "modrinthId": "Ha28R6CL"
-    },
-    {
-      "name": "Minecraft Transit Railway",
-      "modrinthId": "XKPAmI6u"
-    },
-    {
-      "name": "Create Fabric",
-      "modrinthId": "Xbc0uyRg",
+      "fakeGameVersion": "1.19.2",
       "versionTypeRegex": "release|beta"
     },
     {
-      "name": "Simpler Auth",
-      "modrinthId": "TYaqEeAP"
-    },
-    {
-      "name": "Fabric Tailor",
-      "modrinthId": "g8w1NapE"
-    },
-    {
-      "name": "HealthCare",
-      "modrinthId": "NNqujQWr"
-    },
-    {
-      "name": "Creeper Spores",
-      "modrinthId": "WSdgoMoj"
-    },
-    {
-      "name": "Patchouli",
-      "modrinthId": "nU0bVIaL"
-    },
-    {
-      "name": "AE2 Things",
-      "modrinthId": "veunMwU3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dynmapforge",
       "versionTypeRegex": "release|beta"
     },
     {
-      "name": "Roughly Enough Items",
-      "curseForgeId": "310111"
-    },
-    {
-      "name": "Architectury API",
-      "curseForgeId": "419699"
-    },
-    {
-      "name": "Xaero's Minimap",
-      "curseForgeId": "263420",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
       "versionTypeRegex": "release|beta"
     },
     {
-      "name": "Xaero's World Map",
-      "curseForgeId": "317780",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
       "versionTypeRegex": "release|beta"
     },
-    {
-      "name": "Inventory HUD+",
-      "curseForgeId": "357540",
-      "versionTypeRegex": "release|beta"
-    },
-    {
-      "name": "WorldEdit",
-      "curseForgeId": "225608"
-    },
-    {
-      "name": "Clumps",
-      "curseForgeId": "256717"
-    },
-    {
-      "name": "Croptopia",
-      "curseForgeId": "415438"
-    },
-    {
-      "name": "Dynmap",
-      "curseForgeId": "59433",
-      "versionTypeRegex": "release"
-    },
-    {
-      "name": "megane",
-      "curseForgeId": "408118"
-    },
-    {
-      "name": "Create Crafts & Additions",
-      "curseForgeId": "439890",
-      "versionTypeRegex": "release|beta"
-    }
+    "https://www.curseforge.com/minecraft/mc-mods/worldedit",
+    "https://www.curseforge.com/minecraft/mc-mods/clumps"
   ]
 }
