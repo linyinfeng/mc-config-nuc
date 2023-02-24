@@ -5,10 +5,7 @@
     }
   },
   "mods": [
-    {
-      "url": "https://modrinth.com/mod/fabric-api",
-      "versionTypeRegex": "release|beta"
-    },
+    "https://modrinth.com/mod/fabric-api",
     "https://modrinth.com/mod/sodium",
     {
       "url": "https://modrinth.com/mod/reeses-sodium-options",
