@@ -7,16 +7,15 @@
   "mods": [
     {
       "url": "https://modrinth.com/mod/fabric-api",
-      "versionTypeRegex": "release|beta",
       "name": "Fabric API",
       "modrinthId": "P7dR8mSH",
-      "version": "0.74.0+1.19.3",
+      "version": "0.75.0+1.19.3",
       "files": [
         {
-          "filename": "fabric-api-0.74.0+1.19.3.jar",
+          "filename": "fabric-api-0.75.0+1.19.3.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/1ld37x4U/fabric-api-0.74.0%2B1.19.3.jar",
-            "sha512": "e19ceb464cb34e5f48a0f684a4d0ac3efe1c2a7309431f9c0f993f7d939c4c6e93c384e0ef841184605daa5093dc5dbcf4c63e87a77e58d8ef568afce0587adb"
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/IzS7xNr6/fabric-api-0.75.0%2B1.19.3.jar",
+            "sha512": "c202dc4f1c7ab2697edd8bb6e700e9bfdedef0b76f69c3fbf1144d8878f43c7c1a7dddaacda6a5763b284f9d55ca9d9a11a2c18759f09aa3f30b4e3b2ffc830c"
           }
         }
       ]
