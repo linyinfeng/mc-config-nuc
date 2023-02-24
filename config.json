@@ -9,13 +9,13 @@
       "url": "https://modrinth.com/mod/fabric-api",
       "name": "Fabric API",
       "modrinthId": "P7dR8mSH",
-      "version": "0.75.0+1.19.3",
+      "version": "0.75.1+1.19.3",
       "files": [
         {
-          "filename": "fabric-api-0.75.0+1.19.3.jar",
+          "filename": "fabric-api-0.75.1+1.19.3.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/IzS7xNr6/fabric-api-0.75.0%2B1.19.3.jar",
-            "sha512": "c202dc4f1c7ab2697edd8bb6e700e9bfdedef0b76f69c3fbf1144d8878f43c7c1a7dddaacda6a5763b284f9d55ca9d9a11a2c18759f09aa3f30b4e3b2ffc830c"
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/nOI7bsDO/fabric-api-0.75.1%2B1.19.3.jar",
+            "sha512": "e80bf6f8fb8d67371e86cce95e8633ee3353db7c64424c59a966121cbafdde912148169eca34936f0334a3c9db67902e3a13479ffc158d233f64f24d95817066"
           }
         }
       ]
@@ -243,6 +243,21 @@
           "file": {
             "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/9hA9pLHz/badpackets-fabric-0.3.4.jar",
             "sha512": "4b395b8924a0b810f9a29eb4669551db5f812951ec33c5fc51e737a14ba2e5019a2bfb775638b118d02277ad58939b1402264c2b886f9455ad6a394e960927c7"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/inventory-sorting",
+      "name": "Inventory Sorting",
+      "modrinthId": "5ibSyLAz",
+      "version": "1.8.10-1.19.3",
+      "files": [
+        {
+          "filename": "InventorySorter-1.8.10-1.19.3.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/5ibSyLAz/versions/oRCj8lkB/InventorySorter-1.8.10-1.19.3.jar",
+            "sha512": "d97313168aee8fb04d94c10c6d37402b419131b83bdeaff7a4ac366518b3b598dd2da0ec14bc567710f47a98f76a0ab22b618989d09a2f51c2759b83d57827f7"
           }
         }
       ]
