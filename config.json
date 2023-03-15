@@ -56,13 +56,13 @@
       "primaryFileOnly": true,
       "name": "Sodium Extra",
       "modrinthId": "PtjYWJkn",
-      "version": "mc1.19.3-0.4.17",
+      "version": "mc1.19.3-0.4.18",
       "files": [
         {
-          "filename": "sodium-extra-0.4.17+mc1.19.3-build.95.jar",
+          "filename": "sodium-extra-0.4.18+mc1.19.3-build.99.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/wA35IJw8/sodium-extra-0.4.17%2Bmc1.19.3-build.95.jar",
-            "sha512": "38f747fd785c2cbb3c5a783ebdce27950f7e552c9e03beb6d27a9551cedf8a69a0e9c7677c9051cf946e3bffdcc6664322e24514f4397b06acec7b77d2e7ac31"
+            "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/Fo9beybz/sodium-extra-0.4.18%2Bmc1.19.3-build.99.jar",
+            "sha512": "77c31a006b7560609b000f7484cdc738ebd655ab106be698db56d7d7009bd67f36919eead8e6ba15f6fdaf575064df588a0b1dccf09afccd1278e4ff3730c3e6"
           }
         }
       ]
@@ -71,13 +71,13 @@
       "url": "https://modrinth.com/mod/lithium",
       "name": "Lithium",
       "modrinthId": "gvQqBUqZ",
-      "version": "mc1.19.3-0.10.4",
+      "version": "mc1.19.3-0.11.0",
       "files": [
         {
-          "filename": "lithium-fabric-mc1.19.3-0.10.4.jar",
+          "filename": "lithium-fabric-mc1.19.3-0.11.0.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XS6vJwop/lithium-fabric-mc1.19.3-0.10.4.jar",
-            "sha512": "2f33a06769044e43b5cfb95f1b7f8c2a14ef2f025d6d531ed64dae186eaf3c3d72eeb68f6422f7637b67c4055022c9ef8f5f582d9081dc06a4642cda4c242b82"
+            "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/sMWkk4VU/lithium-fabric-mc1.19.3-0.11.0.jar",
+            "sha512": "7d66f82b5ea70e498d95ce0aa68aba4b0907d11e7f32e9f9ef7a30f36754034a27f5ba27a33b5c94c08914bce03dd575373483c20e532a30446e0d25c3e82b83"
           }
         }
       ]
@@ -191,13 +191,13 @@
       "url": "https://modrinth.com/mod/luckperms",
       "name": "LuckPerms",
       "modrinthId": "Vebnzrzj",
-      "version": "v5.4.60-fabric",
+      "version": "v5.4.65-fabric",
       "files": [
         {
-          "filename": "LuckPerms-Fabric-5.4.60.jar",
+          "filename": "LuckPerms-Fabric-5.4.65.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/DcPV35qG/LuckPerms-Fabric-5.4.60.jar",
-            "sha512": "64539f13f6bad34cd0772e54524ad8d01d1e2a702cacf9f155dfdaf1f1814a293a095c50170a5174db9a961c1811c9aee2961f4c6e3b88424283b09b05d90996"
+            "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/BQE71eJn/LuckPerms-Fabric-5.4.65.jar",
+            "sha512": "ee3eaff74e41cdb56c88c6acf8e877e5cf57917ed8a77c0d632a08c7a53acf85857a9756e9a8a7853a84c37fa8731bce5aeef984ff73cfaeba1341e7d815c3c1"
           }
         }
       ]
@@ -221,13 +221,13 @@
       "url": "https://modrinth.com/mod/wthit",
       "name": "WTHIT",
       "modrinthId": "6AQIaxuO",
-      "version": "fabric-6.1.4",
+      "version": "fabric-6.2.0",
       "files": [
         {
-          "filename": "wthit-fabric-6.1.4.jar",
+          "filename": "wthit-fabric-6.2.0.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DJJt318S/wthit-fabric-6.1.4.jar",
-            "sha512": "5f3b4efbc8b4254d04557a908e17ba70d59e3db466ed169afd49209e043c0603a3e976cd8a3b9bb078809ff36dbc080d15f4b16be23d65b4c037b88c2e779208"
+            "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/aTeIZC10/wthit-fabric-6.2.0.jar",
+            "sha512": "6b470e7c22eacbb7d86473c9954261363390b06d64b83a79df2fee90df3fbec5ad5b19dcc9fbc455e6c1db7320bc2c7be899025c08e3de5ea8981cb561318b72"
           }
         }
       ]
@@ -388,13 +388,13 @@
       "versionTypeRegex": "release|beta",
       "name": "Xaero's Minimap",
       "curseForgeId": 263420,
-      "version": "v23.1.0 for Fabric 1.19.3",
+      "version": "v23.2.0 for Fabric 1.19.3",
       "files": [
         {
-          "filename": "Xaeros_Minimap_23.1.0_Fabric_1.19.3.jar",
+          "filename": "Xaeros_Minimap_23.2.0_Fabric_1.19.3.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/4381/126/Xaeros_Minimap_23.1.0_Fabric_1.19.3.jar",
-            "sha1": "3703941ec8489edc0e3c2d196048240990a50700"
+            "url": "https://edge.forgecdn.net/files/4418/101/Xaeros_Minimap_23.2.0_Fabric_1.19.3.jar",
+            "sha1": "a131aad1c23a224cee42e2a77b1cc170445ecc13"
           }
         }
       ]
@@ -404,13 +404,13 @@
       "versionTypeRegex": "release|beta",
       "name": "Xaero's World Map",
       "curseForgeId": 317780,
-      "version": "v1.28.9 for Fabric 1.19.3",
+      "version": "v1.29.2 for Fabric 1.19.3",
       "files": [
         {
-          "filename": "XaerosWorldMap_1.28.9_Fabric_1.19.3.jar",
+          "filename": "XaerosWorldMap_1.29.2_Fabric_1.19.3.jar",
           "file": {
-            "url": "https://edge.forgecdn.net/files/4381/148/XaerosWorldMap_1.28.9_Fabric_1.19.3.jar",
-            "sha1": "f6e7261f32eba7a0af469656c21b03cc7ef18c23"
+            "url": "https://edge.forgecdn.net/files/4424/637/XaerosWorldMap_1.29.2_Fabric_1.19.3.jar",
+            "sha1": "fe17091ad702a037011421b8d5b85ac1c5b6e17e"
           }
         }
       ]
