@@ -1,59 +1,70 @@
 {
   "nodes": {
-    "flake-utils": {
+    "flake-parts": {
+      "inputs": {
+        "nixpkgs-lib": [
+          "nixpkgs"
+        ]
+      },
       "locked": {
-        "lastModified": 1644229661,
-        "narHash": "sha256-1YdnJAsNy69bpcjuoKdOYQX0YxZBiCYZo4Twxerqv7k=",
-        "owner": "numtide",
-        "repo": "flake-utils",
-        "rev": "3cecb5b042f7f209c56ffd8371b2711a290ec797",
+        "lastModified": 1680392223,
+        "narHash": "sha256-n3g7QFr85lDODKt250rkZj2IFS3i4/8HBU2yKHO3tqw=",
+        "owner": "hercules-ci",
+        "repo": "flake-parts",
+        "rev": "dcc36e45d054d7bb554c9cdab69093debd91a0b5",
         "type": "github"
       },
       "original": {
-        "owner": "numtide",
-        "repo": "flake-utils",
+        "owner": "hercules-ci",
+        "repo": "flake-parts",
         "type": "github"
       }
     },
-    "flake-utils-plus": {
+    "flake-utils": {
       "inputs": {
-        "flake-utils": "flake-utils"
+        "systems": "systems"
       },
       "locked": {
-        "lastModified": 1657226504,
-        "narHash": "sha256-GIYNjuq4mJlFgqKsZ+YrgzWm0IpA4axA3MCrdKYj7gs=",
-        "owner": "gytis-ivaskevicius",
-        "repo": "flake-utils-plus",
-        "rev": "2bf0f91643c2e5ae38c1b26893ac2927ac9bd82a",
+        "lastModified": 1681202837,
+        "narHash": "sha256-H+Rh19JDwRtpVPAWp64F+rlEtxUWBAQW28eAi3SRSzg=",
+        "owner": "numtide",
+        "repo": "flake-utils",
+        "rev": "cfacdce06f30d2b68473a46042957675eebb3401",
         "type": "github"
       },
       "original": {
-        "owner": "gytis-ivaskevicius",
-        "repo": "flake-utils-plus",
+        "owner": "numtide",
+        "repo": "flake-utils",
         "type": "github"
       }
     },
     "mc-config": {
       "inputs": {
-        "flake-utils-plus": [
-          "flake-utils-plus"
+        "flake-parts": [
+          "flake-parts"
         ],
-        "minecraft-json": [
-          "minecraft-json"
+        "flake-utils": [
+          "flake-utils"
         ],
-        "minecraft-nix": [
-          "minecraft-nix"
-        ],
+        "minecraft-json": "minecraft-json",
+        "minecraft-nix": "minecraft-nix",
         "nixpkgs": [
           "nixpkgs"
+        ],
+        "systems": [
+          "flake-utils",
+          "systems"
+        ],
+        "treefmt-nix": [
+          "treefmt-nix"
         ]
       },
       "locked": {
-        "lastModified": 1678860785,
-        "narHash": "sha256-0ZP417u70/Qd6qwKUVZ4Au268Z71mYLWJliH2wXX9ko=",
+        "lastModified": 1681901439,
+        "narHash": "sha256-EPEXGF9hAYlKq0EVGgZ7gF99c42Sw2uEIOsNIxIAqLI=",
         "owner": "linyinfeng",
         "repo": "mc-config",
-        "rev": "467e3c82ffa9b3333d451b1dcd8db2a8f18c6c8c",
+        "rev": "815c241dab65f4e9767cac71a8d56e7082568e96",
         "type": "github"
       },
       "original": {
@@ -65,19 +76,20 @@
     "minecraft-json": {
       "inputs": {
         "flake-utils": [
-          "flake-utils-plus",
+          "mc-config",
           "flake-utils"
         ],
         "nixpkgs": [
+          "mc-config",
           "nixpkgs"
         ]
       },
       "locked": {
-        "lastModified": 1678843536,
-        "narHash": "sha256-zu9SSebJqOsQNa4l0JwNH0QYkXNf82ccjWtChAca6Oo=",
+        "lastModified": 1680830127,
+        "narHash": "sha256-IudPB9lyjdKhvMLgSjYJZ40giEk4HavGnGucIh/IHrw=",
         "owner": "ninlives",
         "repo": "minecraft.json",
-        "rev": "9ff2983cdfe6141e87b2ad8b08cb2c6a0ee8eb9f",
+        "rev": "d039ed46f87ee80f19c025791f8d15fa212f4c2d",
         "type": "github"
       },
       "original": {
@@ -89,22 +101,24 @@
     "minecraft-nix": {
       "inputs": {
         "flake-utils": [
-          "flake-utils-plus",
+          "mc-config",
           "flake-utils"
         ],
         "metadata": [
+          "mc-config",
           "minecraft-json"
         ],
         "nixpkgs": [
+          "mc-config",
           "nixpkgs"
         ]
       },
       "locked": {
-        "lastModified": 1678843378,
-        "narHash": "sha256-RJKXtyPDwFw8fTPC6JX16nh88BRoZfIRLq73pEXt6Jo=",
+        "lastModified": 1681867083,
+        "narHash": "sha256-YHikG841V+1Vl2pYlR3jV0qpKxHEy3L0A9M1no+/fK8=",
         "owner": "ninlives",
         "repo": "minecraft.nix",
-        "rev": "9cf8226603aeb2640430ff35d2b876d51e826135",
+        "rev": "e231122b12c8ddf8791f149dd629d4142de3c986",
         "type": "github"
       },
       "original": {
@@ -115,11 +129,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1678654296,
-        "narHash": "sha256-aVfw3ThpY7vkUeF1rFy10NAkpKDS2imj3IakrzT0Occ=",
+        "lastModified": 1681737997,
+        "narHash": "sha256-pHhjgsIkRMu80LmVe8QoKIZB6VZGRRxFmIvsC5S89k4=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "5a1dc8acd977ff3dccd1328b7c4a6995429a656b",
+        "rev": "f00994e78cd39e6fc966f0c4103f908e63284780",
         "type": "github"
       },
       "original": {
@@ -131,11 +145,46 @@
     },
     "root": {
       "inputs": {
-        "flake-utils-plus": "flake-utils-plus",
+        "flake-parts": "flake-parts",
+        "flake-utils": "flake-utils",
         "mc-config": "mc-config",
-        "minecraft-json": "minecraft-json",
-        "minecraft-nix": "minecraft-nix",
-        "nixpkgs": "nixpkgs"
+        "nixpkgs": "nixpkgs",
+        "treefmt-nix": "treefmt-nix"
+      }
+    },
+    "systems": {
+      "locked": {
+        "lastModified": 1681028828,
+        "narHash": "sha256-Vy1rq5AaRuLzOxct8nz4T6wlgyUR7zLU309k9mBC768=",
+        "owner": "nix-systems",
+        "repo": "default",
+        "rev": "da67096a3b9bf56a91d16901293e51ba5b49a27e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nix-systems",
+        "repo": "default",
+        "type": "github"
+      }
+    },
+    "treefmt-nix": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1681486253,
+        "narHash": "sha256-EjiQZvXQH9tUPCyLC6lQpfGnoq4+kI9v59bDJWPicYo=",
+        "owner": "numtide",
+        "repo": "treefmt-nix",
+        "rev": "b25d1a3c2c7554d0462ab1dfddf2f13128638b90",
+        "type": "github"
+      },
+      "original": {
+        "owner": "numtide",
+        "repo": "treefmt-nix",
+        "type": "github"
       }
     }
   },
