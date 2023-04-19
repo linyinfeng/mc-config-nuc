@@ -33,9 +33,9 @@
         lib,
         ...
       }: {
-        minecraftConfigurations.nuc = inputs.mc-config.lib.minecraftConfiguration {
+        minecraftConfigurations.default = inputs.mc-config.lib.minecraftConfiguration {
           inherit pkgs;
-          modules = [./nuc.nix];
+          modules = [./minecraft.nix];
         };
         treefmt = {
           projectRootFile = "flake.nix";

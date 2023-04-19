@@ -1,7 +1,7 @@
 {...}: {
-  name = "nuc";
-  launchers.lockFile = ./nuc.lock;
-  mcConfig = {
+  name = "minecraft";
+  lock.file = ./minecraft.lock;
+  minecraft = {
     game.version = "1.19.4";
     mods = [
       "https://modrinth.com/mod/fabric-api"
