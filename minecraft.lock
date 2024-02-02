@@ -1,31 +1,31 @@
 {
   "mods": [
     {
-      "filename": "fabric-api-0.94.1+1.20.4.jar",
+      "filename": "fabric-api-0.95.1+1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/XxkTbJzb/fabric-api-0.94.1%2B1.20.4.jar",
-        "sha512": "5a4c6048b8e0786633422390892ac1c86daa0582df5784c484befa451be2127949d5ba216e9770dcb39fd4df67a0eb76ceb885ebf99215eeceb4548a937a3bf6"
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TvatZFJI/fabric-api-0.95.1%2B1.20.4.jar",
+        "sha512": "1acafbb636cf03eb7cd25e52c7e80304fc8d72dc6bbc337c4f1d68c79cefe433446c1c0bd0709d5b59a39a73eb871dda900366acde68f8d27d98318f467553ca"
       }
     },
     {
-      "filename": "sodium-fabric-mc1.20.3-0.5.5.jar",
+      "filename": "sodium-fabric-0.5.8+mc1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/InGKdfel/sodium-fabric-mc1.20.3-0.5.5.jar",
-        "sha512": "85c469f64dd2bfb41d15a581a6270908679c5d19db5f69d61de92a9007b2334df09e3ba39b5038bbca9b31ce55cd6f465aa86efbeede4177fb00eb51558005a6"
+        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8%2Bmc1.20.4.jar",
+        "sha512": "bd00b956bde1205171e744a6a3780e835fb6928eb667fb2b56467818c979fb1e8c82561380a71a7dbfa1516cd4b6cf9087ca99f1ae066da6d65af2c828b8d554"
       }
     },
     {
-      "filename": "reeses_sodium_options-1.7.0+mc1.20.2-build.97.jar",
+      "filename": "reeses_sodium_options-1.7.1+mc1.20.4-build.100.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/YxKBGhki/reeses_sodium_options-1.7.0%2Bmc1.20.2-build.97.jar",
-        "sha512": "445ad9aa5109fd2e885e5b02be02ee5119a6a11e78cb5814ae42d347214723d7a1a69dcffc4e9f547d4d4fa1b11ffb860e50de7f4adc6e619ddeb73a5c2c72d4"
+        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iukh1sNN/reeses_sodium_options-1.7.1%2Bmc1.20.4-build.100.jar",
+        "sha512": "251c68efb573bf6c8f49acd42ebe82862e76ab9da39446833d3604e4d38783c47f29057f994856e668e06dbed27e47c6df215641ad354ffb960d852485e8e281"
       }
     },
     {
-      "filename": "sodium-extra-0.5.3+mc1.20.2-build.114.jar",
+      "filename": "sodium-extra-0.5.4+mc1.20.4-build.116.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/e8Jw5Pey/sodium-extra-0.5.3%2Bmc1.20.2-build.114.jar",
-        "sha512": "3de3f21f2668889a63b29459c9a93322af7a9a4ce243b9d8039d2651ad7da783c005d71936a9f2a76f9686432a969fabe1e0fff812db3c2a8aced89c3997c610"
+        "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/M0ndiav7/sodium-extra-0.5.4%2Bmc1.20.4-build.116.jar",
+        "sha512": "6db6380831823af00e9646969276a10ba8a82c78df3318af5b562e5c9975e4af7e463f689ef6182a75b52d56591cc0dc9bdfbaaf78c92bc5b415e06ca65fda90"
       }
     },
     {
@@ -43,10 +43,10 @@
       }
     },
     {
-      "filename": "iris-mc1.20.4-1.6.14.jar",
+      "filename": "iris-mc1.20.4-1.6.15.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Xl7oywRL/iris-mc1.20.4-1.6.14.jar",
-        "sha512": "a37762196bf78a1d05e848321bc02aa30df1fa97ba312d7177e52444fce06a2a75b2ae2338bdc9f51250d9008e2d931c9f03addca5c57551a64e65418806da49"
+        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/dtaGVXSk/iris-mc1.20.4-1.6.15.jar",
+        "sha512": "b828d50c6865cb1dcae52e3df2b82f9005d06ffd88f09f7ab690e20b0e1400b6f12ff14a437e0df36f2d147451cdc0e824ca85f0df9efeff0a3e9425f2eae5e7"
       }
     },
     {
@@ -99,10 +99,10 @@
       }
     },
     {
-      "filename": "wthit-fabric-10.0.1.jar",
+      "filename": "wthit-fabric-10.2.0.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XWbz4yRz/wthit-fabric-10.0.1.jar",
-        "sha512": "857ec9eb178ef6eccc7ea3429e96cecc788b6e7fec288b29d5193dc5b8bfd9029b5a873678b586a50324702a02409ca5ed339195f9cf21136882fd575dd2ce54"
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/7TdCsiO4/wthit-fabric-10.2.0.jar",
+        "sha512": "c4b2d0cebaa5ae00976f9577db5876daa2d9566fcbea625c0c65c3f784b8a908659c1928ccda2e28b4a8d5d04969d1d3b3d20a4af66d6066f968b636ffa6ae3c"
       }
     },
     {
@@ -155,17 +155,17 @@
       }
     },
     {
-      "filename": "Xaeros_Minimap_23.9.6_Fabric_1.20.4.jar",
+      "filename": "Xaeros_Minimap_23.9.7_Fabric_1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/PfhJ0nzQ/Xaeros_Minimap_23.9.6_Fabric_1.20.4.jar",
-        "sha512": "f1366107518b2c2e20fe49e019b286a9d90bf7a80641a7ba3c625e49a4b4390929f5a9abbaf0fea7bb928c87b85634f39c343e48c196c70346d90dbda6e49851"
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/LLE04weG/Xaeros_Minimap_23.9.7_Fabric_1.20.4.jar",
+        "sha512": "b2fdaf6154d1258467c8c5d5eb6d6b26f30ce63dadeca8ad3f0c5a440eff39f8b5462826506b65fded91e83f8f082f5c7d1866fc3dd31072de56347ab01cf46c"
       }
     },
     {
-      "filename": "XaerosWorldMap_1.37.6_Fabric_1.20.4.jar",
+      "filename": "XaerosWorldMap_1.37.8_Fabric_1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UXPdKH9b/XaerosWorldMap_1.37.6_Fabric_1.20.4.jar",
-        "sha512": "1277cf3556cf2e88a3a6a1b967f9b59a9726142f3e7188ff14e2f770889038de07088141693c7ce2efcbb3c70ea60d91ae038222aad01a786691ee30b098290f"
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Kh1mGgGA/XaerosWorldMap_1.37.8_Fabric_1.20.4.jar",
+        "sha512": "1400cac0423ce06f4c95e3c2d098db4b76f7591a469081689e91a2818a0bbbc4c8c393f5e13716d943f48d8180657532d5fcd88e53c174cf14e44d0dc10cf0f1"
       }
     },
     {
