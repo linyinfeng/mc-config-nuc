@@ -19,6 +19,7 @@
       inputs,
       ...
     }: {
+      debug= true;
       systems = [
         "x86_64-linux"
         "aarch64-linux"
@@ -26,6 +27,7 @@
       imports = [
         inputs.treefmt-nix.flakeModule
         inputs.mc-config.flakeModules.mc-config
+        inputs.flake-parts.flakeModules.easyOverlay
       ];
       perSystem = {
         config,
