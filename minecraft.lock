@@ -1,10 +1,10 @@
 {
   "mods": [
     {
-      "filename": "fabric-api-0.95.1+1.20.4.jar",
+      "filename": "fabric-api-0.96.11+1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TvatZFJI/fabric-api-0.95.1%2B1.20.4.jar",
-        "sha512": "1acafbb636cf03eb7cd25e52c7e80304fc8d72dc6bbc337c4f1d68c79cefe433446c1c0bd0709d5b59a39a73eb871dda900366acde68f8d27d98318f467553ca"
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/htRy7kbI/fabric-api-0.96.11%2B1.20.4.jar",
+        "sha512": "3a46d5f67d2863f4d7a28e2e7588d08a26318dea1fef6d968816d6134bce91f2b21c7012ed5988a72e45a16db57a90dcfec5f021b2004ce9a75cb9f953f30c64"
       }
     },
     {
@@ -15,10 +15,10 @@
       }
     },
     {
-      "filename": "reeses_sodium_options-1.7.1+mc1.20.4-build.100.jar",
+      "filename": "reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iukh1sNN/reeses_sodium_options-1.7.1%2Bmc1.20.4-build.100.jar",
-        "sha512": "251c68efb573bf6c8f49acd42ebe82862e76ab9da39446833d3604e4d38783c47f29057f994856e668e06dbed27e47c6df215641ad354ffb960d852485e8e281"
+        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/fkLiGoHs/reeses_sodium_options-1.7.2%2Bmc1.20.4-build.102.jar",
+        "sha512": "6b890d098ed7168714a35452ad30b0bb41f4539874e651717daa69e65f916667ff59c6dd1ecf4d49b9b406b0bf97c675d94dea5091eb44f0417b448ff5ac0948"
       }
     },
     {
@@ -36,17 +36,17 @@
       }
     },
     {
-      "filename": "indium-1.0.28+mc1.20.4.jar",
+      "filename": "indium-1.0.30+mc1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/tD2IqHXC/indium-1.0.28%2Bmc1.20.4.jar",
-        "sha512": "cdd8395b5c91fac0a4f3d6d7b94dee44dc6b585e86dbc8dce47945b1a5738fdb0b6a571a28ba47ef06a451b2fe45a28dffe6d55a7212d3dd38c73b2c4fd56231"
+        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30%2Bmc1.20.4.jar",
+        "sha512": "3b9c9beef42f72bc75094595c92038c38e36fcde75890c73ced01aed4fb2a8a85cddb8edd2aa91ea6ed2dd41f8afedaa3dbca8f70c716197a7f2ee5b26060562"
       }
     },
     {
-      "filename": "iris-mc1.20.4-1.6.15.jar",
+      "filename": "iris-mc1.20.4-1.6.17.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/dtaGVXSk/iris-mc1.20.4-1.6.15.jar",
-        "sha512": "b828d50c6865cb1dcae52e3df2b82f9005d06ffd88f09f7ab690e20b0e1400b6f12ff14a437e0df36f2d147451cdc0e824ca85f0df9efeff0a3e9425f2eae5e7"
+        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar",
+        "sha512": "2a9b725a720296b23666e7443ed23c37172ece3f0678457fb8b204a287cbe1d03726ddcfb20f3fbc2bd5e6cd8d1d74e80817b374b93db0c95537859b4e1b3ad1"
       }
     },
     {
@@ -57,10 +57,10 @@
       }
     },
     {
-      "filename": "entityculling-fabric-1.6.3.1-mc1.20.4.jar",
+      "filename": "entityculling-fabric-1.6.4-mc1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HSirwtwV/entityculling-fabric-1.6.3.1-mc1.20.4.jar",
-        "sha512": "39cead9d742acbf031375323a0418d82fd6d5957f69e29a1ddfa493b9d932e2d824b13c46c8882417249d3407f145909ef4923514335d7e89af15c73946c7c20"
+        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/7JR5qJ8f/entityculling-fabric-1.6.4-mc1.20.4.jar",
+        "sha512": "2506bfffb1c6335889d7f33ea8018d7100fbaf5f983b95747894d58d7ef7ed0b4b77ef4f74824b5d798a87cc6acfbc6538dd5fef265625302e159056644b5a00"
       }
     },
     {
@@ -99,17 +99,17 @@
       }
     },
     {
-      "filename": "wthit-fabric-10.2.0.jar",
+      "filename": "wthit-fabric-10.5.0.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/7TdCsiO4/wthit-fabric-10.2.0.jar",
-        "sha512": "c4b2d0cebaa5ae00976f9577db5876daa2d9566fcbea625c0c65c3f784b8a908659c1928ccda2e28b4a8d5d04969d1d3b3d20a4af66d6066f968b636ffa6ae3c"
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/wCL6loGa/wthit-fabric-10.5.0.jar",
+        "sha512": "25538812893007769a3c24485df4064ed6f41af70e329069554f57b1b495b76d81024227ee3fa2aa9186f55b7b2a980dff892bec86e3ed1de62685ff01a76674"
       }
     },
     {
-      "filename": "badpackets-fabric-0.6.0.jar",
+      "filename": "badpackets-fabric-0.6.1.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/M5H8gKAX/badpackets-fabric-0.6.0.jar",
-        "sha512": "6eb0f3c7350c321d101a196cfb2a33cf037fac30a72cd9b99bc05c4bfcb785e40bbdadaac5c3c8715b16787671858cbac38ec5df9f4132b6a2fba6053a6cc4ae"
+        "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/riqsK6Al/badpackets-fabric-0.6.1.jar",
+        "sha512": "380ef40e1719b8e083f9b3f59137d115cc4ee90eed2336b9303300bebd312dfeff96e517e79bc7cf2b35d055c8455f306b9973807a092527df000c3bb84e2330"
       }
     },
     {
@@ -120,10 +120,10 @@
       }
     },
     {
-      "filename": "fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
+      "filename": "fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar",
-        "sha512": "764a95b0c0c9020adf44e378afff6ca2b241f5e44e8e4fc05ad7878a6d242208b48ffb523be12d82d63b2fbd706cc82468645e947a0d52229b44f50191b1b533"
+        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar",
+        "sha512": "0c31443b5061d85787de452d1dc0196a0e3391146aa5f030ef5fa95558b0f2b2bb9a0613fc0e5621e9d796d06e717fef0d0c98046f4ead04d150e0eb2d19abdc"
       }
     },
     {
@@ -141,38 +141,38 @@
       }
     },
     {
-      "filename": "architectury-11.0.11-fabric.jar",
+      "filename": "architectury-11.1.17-fabric.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/7a4IcC0B/architectury-11.0.11-fabric.jar",
-        "sha512": "44606a685bc5e7c7d8c054cc95a57b1f427f43396ee8fb253066718ac4a0be9e594b8eaf7d4889e71b5e82a395d09cbf463308ec8af2114deb281b4ca989f1b2"
+        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar",
+        "sha512": "294112b2db8b5cef2051fede57dfacfb00cc7fce737cbf7db3c2de8b81f0cd17bd29a3e2849c3e05bd9e801fbfa3d14e5a83b6531b3d37e5d7c650cff4714362"
       }
     },
     {
-      "filename": "Chunky-1.3.92.jar",
+      "filename": "Chunky-1.3.138.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/fALzjamp/versions/t8SbUchF/Chunky-1.3.92.jar",
-        "sha512": "25fc408d1604d0d9dfe61db0a79cd482085c79d9fbd426608836e30a838f947aa6c25da828a932f8f0c4bb0d5ad7e34bf5f3e93e77281df06c2e3576b232089a"
+        "url": "https://cdn.modrinth.com/data/fALzjamp/versions/iwsbfPGg/Chunky-1.3.138.jar",
+        "sha512": "872c9b60381ec9ee7ebd78f31977220cf23a5fda6b9d902e36480024352640993146a389a0052e371ff31b52e80ae4bcf6da27f6af011a88fd1f0b3bd8d6a668"
       }
     },
     {
-      "filename": "Xaeros_Minimap_23.9.7_Fabric_1.20.4.jar",
+      "filename": "Xaeros_Minimap_24.0.3_Fabric_1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/LLE04weG/Xaeros_Minimap_23.9.7_Fabric_1.20.4.jar",
-        "sha512": "b2fdaf6154d1258467c8c5d5eb6d6b26f30ce63dadeca8ad3f0c5a440eff39f8b5462826506b65fded91e83f8f082f5c7d1866fc3dd31072de56347ab01cf46c"
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/N5jBKzC0/Xaeros_Minimap_24.0.3_Fabric_1.20.4.jar",
+        "sha512": "cbb308f95dd2df2c696fc64f218a835cdd835152029a48845ffaa3f3d2bf060ea7c91ab933b2cd1346ae56ad95e38feb75eaace361b332bcd6167ba922bf717a"
       }
     },
     {
-      "filename": "XaerosWorldMap_1.37.8_Fabric_1.20.4.jar",
+      "filename": "XaerosWorldMap_1.38.1_Fabric_1.20.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Kh1mGgGA/XaerosWorldMap_1.37.8_Fabric_1.20.4.jar",
-        "sha512": "1400cac0423ce06f4c95e3c2d098db4b76f7591a469081689e91a2818a0bbbc4c8c393f5e13716d943f48d8180657532d5fcd88e53c174cf14e44d0dc10cf0f1"
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/2lbtkEPK/XaerosWorldMap_1.38.1_Fabric_1.20.4.jar",
+        "sha512": "4bb308533ac388cd0ad99554c048b187c740c44ec736927aff40c98816672adbfa1ed32fb9dc66ee3d6c0d82163b0c1f6bf5d24147e550015a45a973c3397334"
       }
     },
     {
-      "filename": "worldedit-mod-7.2.18-dist.jar",
+      "filename": "worldedit-mod-7.3.0.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ssjKpdGo/worldedit-mod-7.2.18-dist.jar",
-        "sha512": "a076630b1c563745003aa47138b2015d30499227513933fc9676e5b5b05fe1b75b475734a53e45a8eeaafe74a84d5576c5ffafd53162c2e6baa93ea31d639ef2"
+        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZOhVauWn/worldedit-mod-7.3.0.jar",
+        "sha512": "0b58ba7d59cb01b7e594da28bbcf6f97624549bb427a3e8c64108f21b49892c6732c068604cabba6ee5aa4ebaf317f94219a4108a37d74c0de2a114e4e0a5812"
       }
     },
     {
