@@ -44,4 +44,11 @@ jobs:
         author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
         committer: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
         branch: 'create-pull-request/update'
+        assignees: |
+          linyinfeng
+        reviewers: |
+          linyinfeng
+        labels: |
+          auto merge
+          auto update
         delete-branch: true
