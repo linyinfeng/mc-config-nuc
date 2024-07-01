@@ -2,7 +2,7 @@
   name = "minecraft";
   lock.file = ./minecraft.lock;
   minecraft = {
-    game.version = "1.20.4";
+    game.versionRegex = ''^1\.20(\.\d+)?$'';
     mods = [
       "https://modrinth.com/mod/fabric-api"
       "https://modrinth.com/mod/sodium"
