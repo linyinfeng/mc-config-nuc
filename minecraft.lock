@@ -116,6 +116,13 @@
       }
     },
     {
+      "filename": "Gamma-Utils-1.9.20-mc1.21.jar",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/Nl43K1A6/Gamma-Utils-1.9.20-mc1.21.jar",
+        "sha512": "4d38b6683526c9b9f491bc603664691de05f38b04ae5c6a9cfc5c3102db92ac1c8158e81a671b9fb8fbe1fa84fff52eb505c900795c96037af89a4ba372366d1"
+      }
+    },
+    {
       "filename": "modmenu-11.0.1.jar",
       "file": {
         "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/xhN1IvHi/modmenu-11.0.1.jar",
