@@ -3,6 +3,9 @@
   lock.file = ./minecraft.lock;
   minecraft = {
     game.versionRegex = ''^1\.21(\.\d+)?$'';
+    launchScript.inheritPath = true;
+    modLoader = "fabric";
+    shaderPackLoader = "iris";
     modDefaults = {
       primaryFileOnly = true;
       # always accept beta
@@ -61,6 +64,14 @@
 
       # not supported yet
       # "https://modrinth.com/plugin/unifiedmetrics"
+    ];
+    shaderPacks = [
+      "https://modrinth.com/shader/bsl-shaders"
+      "https://modrinth.com/shader/complementary-unbound"
+      "https://modrinth.com/shader/complementary-reimagined"
+    ];
+    resourcePacks = [
+      "https://modrinth.com/resourcepack/fast-better-grass"
     ];
   };
 }

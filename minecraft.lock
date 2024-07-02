@@ -39,10 +39,10 @@
       }
     },
     {
-      "filename": "libIPN-fabric-1.21-5.0.0.jar",
+      "filename": "libIPN-fabric-1.21-5.0.2.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/EcZD6oss/libIPN-fabric-1.21-5.0.0.jar",
-        "sha512": "4e17e1cf9778b6f66baf19c4bd9d17e0ebf8e53cd95577348a9517fccfcc52adf230145e88224fab47bfe51433578fa60b1900dfb4b717ae65e7fcbe637c6e23"
+        "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/K3RyxVfM/libIPN-fabric-1.21-5.0.2.jar",
+        "sha512": "f2e166fb2e8ef3d5e1a98a14fb6b351b23b16eebd39f3a923da26671d950e5af33d4a43b524ce9229af303a4210d86ef27555e3d2f72dea21adaf4c3594b0f59"
       }
     },
     {
@@ -109,10 +109,10 @@
       }
     },
     {
-      "filename": "InventoryProfilesNext-fabric-1.21-2.0.0.jar",
+      "filename": "InventoryProfilesNext-fabric-1.21-2.0.1.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/jc4p83Hm/InventoryProfilesNext-fabric-1.21-2.0.0.jar",
-        "sha512": "ebbf9d2cd4420424ffb7aa939c6f0fb293a802203a786c9c4c02725041cdb6612f6a4c5e98fec3dcc4fb45a647f2ffcf76cec004e9604e18465d6502a504bc42"
+        "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/7yQ2yAzj/InventoryProfilesNext-fabric-1.21-2.0.1.jar",
+        "sha512": "53de0e06963d099e055800f891680e9fcf12c87162b9ebd12e7375b3b38ec7e00a6c8a9acbbba9a127bb122484f0c30f5b2d93cd07642c4f1cdd9aa52b0ac30e"
       }
     },
     {
@@ -239,6 +239,38 @@
       "file": {
         "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/gz0q5n5K/voicechat-fabric-1.21-2.5.17.jar",
         "sha512": "81611248420b142d8576055a4f35558d6720527de6fbe464ba327845e7e03b689d434d817a0fe47680e7ed0c7d5bdc2ffca7daee5a07e2b54c9ad0b89db5e9fb"
+      }
+    }
+  ],
+  "shaderPacks": [
+    {
+      "filename": "BSL_v8.2.09.zip",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/c6RfHyKW/BSL_v8.2.09.zip",
+        "sha512": "68edfac08cac19ac151abdafd0708bb2304af608dde9dc04ffd52968a8e93bc2c6ce67902ff850e32c0280ec19587f06d0c550b41c709ee2e5d7974c8414c491"
+      }
+    },
+    {
+      "filename": "ComplementaryUnbound_r5.2.1.zip",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/qWTl3wic/ComplementaryUnbound_r5.2.1.zip",
+        "sha512": "04252b14ee4c86e801183f150f500b4cab4000115f1a6b224629989e753d23fb15378faac6a9df69f9701ea2699bcb0184cfbd8847725e1743d57d082eb5f250"
+      }
+    },
+    {
+      "filename": "ComplementaryReimagined_r5.2.1.zip",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/6lz4f6iK/ComplementaryReimagined_r5.2.1.zip",
+        "sha512": "52f87a733c382353e5aa0e07555cf821a31b832f67dca63ab28e56b99d12de77c989ab90926aa452096b14496349c60bae77d9717e89cb3a68e3ac93c3b7495f"
+      }
+    }
+  ],
+  "resourcePacks": [
+    {
+      "filename": "Fast Better Grass.zip",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/dspVZXKP/versions/1lpmCieT/Fast%20Better%20Grass.zip",
+        "sha512": "a21b80e7e6c69f286904e4015372be300f6be374c43c1a0b1e1d46278c1ab336e061e57be467194be7fcf1622d696ab2b2f4259708276639fc6a4ff60953dae8"
       }
     }
   ]
