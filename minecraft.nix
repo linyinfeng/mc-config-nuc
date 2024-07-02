@@ -33,6 +33,7 @@
       "https://modrinth.com/mod/rei"
       "https://modrinth.com/mod/mouse-tweaks"
       "https://modrinth.com/mod/inventory-profiles-next"
+      "https://modrinth.com/mod/gamma-utils"
 
       # client gui
       "https://modrinth.com/mod/modmenu"
