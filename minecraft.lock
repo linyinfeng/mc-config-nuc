@@ -221,10 +221,10 @@
       }
     },
     {
-      "filename": "Veinminer-2.0.7.jar",
+      "filename": "Veinminer-2.1.0.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/OhduvhIc/versions/TiXmHQqU/Veinminer-2.0.7.jar",
-        "sha512": "b09d7be8515be273e42ce25fbb4921a689be5a5a580c668e72178531f5577af28c2cc9cad5b1ad2199f97bd0c6cc7cc6b8d3aaeabc46baf58ad04cb6d3ff5381"
+        "url": "https://cdn.modrinth.com/data/OhduvhIc/versions/KTJOR6a7/Veinminer-2.1.0.jar",
+        "sha512": "cec416854b73f09a5e256fe744a8f695116494563fe0be1426f1f3e943f6dd25c8fe49259fe40bf03273fa1759d75430507eb9f6145f384c26f5394e39136406"
       }
     },
     {
