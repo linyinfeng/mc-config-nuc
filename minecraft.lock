@@ -193,10 +193,10 @@
       }
     },
     {
-      "filename": "worldedit-mod-7.3.4-beta-01.jar",
+      "filename": "worldedit-mod-7.3.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/JOJ9WbGc/worldedit-mod-7.3.4-beta-01.jar",
-        "sha512": "1ef17c05ee982ae61f99b26be847b2ac3d48a4f4b956e0e34101d4613b8ec4a127da58f223fe023eca04784b07298cb0457e2c34c5416717ab44f243523ce2ad"
+        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/EjobaxpK/worldedit-mod-7.3.4.jar",
+        "sha512": "8b4f1abe5e39f3a1b6fc1a6ec9cd864a9d1ea51135233025c3e7921beb914ae2a7b1005837b06a3a21ef781ebcbbbf2bec8f196ef3a4323847a5cb317fe44131"
       }
     },
     {
@@ -258,17 +258,17 @@
       }
     },
     {
-      "filename": "ComplementaryUnbound_r5.2.1.zip",
+      "filename": "ComplementaryUnbound_r5.2.2.zip",
       "file": {
-        "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/qWTl3wic/ComplementaryUnbound_r5.2.1.zip",
-        "sha512": "04252b14ee4c86e801183f150f500b4cab4000115f1a6b224629989e753d23fb15378faac6a9df69f9701ea2699bcb0184cfbd8847725e1743d57d082eb5f250"
+        "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/RMaZ3tSJ/ComplementaryUnbound_r5.2.2.zip",
+        "sha512": "e165f1dbf44b52f2ca9c921e4b1534e550c716986f9377fce0c98e129105f4ea9e7e42d70e64707d76a212eb121f525f55515b63516e3be082fa107217d26bcc"
       }
     },
     {
-      "filename": "ComplementaryReimagined_r5.2.1.zip",
+      "filename": "ComplementaryReimagined_r5.2.2.zip",
       "file": {
-        "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/6lz4f6iK/ComplementaryReimagined_r5.2.1.zip",
-        "sha512": "52f87a733c382353e5aa0e07555cf821a31b832f67dca63ab28e56b99d12de77c989ab90926aa452096b14496349c60bae77d9717e89cb3a68e3ac93c3b7495f"
+        "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/pAOQ9Amz/ComplementaryReimagined_r5.2.2.zip",
+        "sha512": "1b49966c89559e43ad7ea2466213663ee543fd302383998ea367e8a53a855a183941e5bef72e13f60086a89a92a06758feef11d49f9a1890b26261657f37d153"
       }
     }
   ],
