@@ -242,10 +242,10 @@
       }
     },
     {
-      "filename": "voicechat-fabric-1.21-2.5.18.jar",
+      "filename": "voicechat-fabric-1.21-2.5.19.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/COYWChTc/voicechat-fabric-1.21-2.5.18.jar",
-        "sha512": "da1c1a8d60b9f86835b7b6812ac53fa55bcb264a6b32cb111519ce6606487c4e647d8c457f440502a2eca5a7b5cf99ea8d385c5b88ab16313866515edc645dca"
+        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SSk6KqP7/voicechat-fabric-1.21-2.5.19.jar",
+        "sha512": "6499ed41ab959b8b18a7020f4ab07392d912be891a9876fef27f24e23e72abc461cdf3cff36d045c20b309f937383e97f39d1faef8c13d36090fa575b84d9d2f"
       }
     }
   ],
