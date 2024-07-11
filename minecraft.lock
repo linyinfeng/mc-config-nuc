@@ -32,10 +32,10 @@
       }
     },
     {
-      "filename": "architectury-13.0.3-fabric.jar",
+      "filename": "architectury-13.0.4-fabric.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/nW3HvWVP/architectury-13.0.3-fabric.jar",
-        "sha512": "0705a4484f77a1f55cb63aa2efc10380da97f9e8dd56e151b2e9cc76620a30f5d738ad61106c9ba0369b803398bab1979033dafa14fb00a1d546dfa3b0b16545"
+        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/i0N0Veb4/architectury-13.0.4-fabric.jar",
+        "sha512": "7d9df2037cd474ae8f75c4d2800949e437111e42795a36b0951631452c36ac10e409f60f6dbac19a147c1bed5d29cb6caef386faf5f7aef4b485853e89fed348"
       }
     },
     {
