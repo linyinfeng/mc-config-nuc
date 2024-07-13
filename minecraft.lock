@@ -151,10 +151,10 @@
       }
     },
     {
-      "filename": "dynamiccrosshair-8.0.2+1.21-fabric.jar",
+      "filename": "dynamiccrosshair-8.0.3+1.21-fabric.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/ZcR9weSm/versions/AjOd8bzj/dynamiccrosshair-8.0.2%2B1.21-fabric.jar",
-        "sha512": "dab929133ffeb162ec1633e2d74c32a658645318ed1c1db78c433194751865026bcec31c0d2dce58ada242c8a90821340f68b7f9e3d17ee39244e3dd6923788b"
+        "url": "https://cdn.modrinth.com/data/ZcR9weSm/versions/tvgAGEoG/dynamiccrosshair-8.0.3%2B1.21-fabric.jar",
+        "sha512": "be306f59024a43b4f64d067bc7aad3b7a528ca8ddc7a2482e235c0b654443385af93d30636c4cf48eda37488adbb5250604e725cbc200d6f11bb90fff3009f05"
       }
     },
     {
