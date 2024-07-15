@@ -1,9 +1,8 @@
-{...}: {
+{pkgs, ...}: {
   name = "minecraft";
   lock.file = ./minecraft.lock;
   minecraft = {
     game.versionRegex = ''^1\.21(\.\d+)?$'';
-    launchScript.inheritPath = true;
     modLoader = "fabric";
     shaderPackLoader = "iris";
     modDefaults = {
@@ -47,6 +46,7 @@
 
       # client&server-side optimization
       "https://modrinth.com/mod/ferrite-core"
+      "https://modrinth.com/mod/spark"
 
       # server plugin
       "https://modrinth.com/mod/luckperms"
@@ -57,6 +57,9 @@
       "https://modrinth.com/plugin/dynmap"
       "https://modrinth.com/mod/fallingtree"
       "https://modrinth.com/mod/veinminer"
+      "https://modrinth.com/mod/ledger"
+      "https://modrinth.com/mod/easyauth"
+      "https://modrinth.com/mod/fuji"
 
       # client&server addons
       "https://modrinth.com/mod/wthit"
@@ -74,5 +77,20 @@
     resourcePacks = [
       "https://modrinth.com/resourcepack/fast-better-grass"
     ];
+    launchScript = {
+      inheritPath = true;
+      path = with pkgs; [
+        gnused
+      ];
+      preparation.modifySettings = {
+        text = ''
+          if [ -f config/EssentialCommands.properties ]; then
+            sed -i "/^use_permissions_api=/ s/=.*/=true/" config/EssentialCommands.properties
+            sed -i "/^home_limit=/ s/=.*/=1,3,5/" config/EssentialCommands.properties
+          fi
+        '';
+        deps = ["linkFiles"];
+      };
+    };
   };
 }
