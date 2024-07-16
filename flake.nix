@@ -13,39 +13,47 @@
     mc-config.inputs.systems.follows = "flake-utils/systems";
     mc-config.inputs.treefmt-nix.follows = "treefmt-nix";
   };
-  outputs = inputs @ {flake-parts, ...}:
-    flake-parts.lib.mkFlake {inherit inputs;} ({
-      self,
-      inputs,
-      ...
-    }: {
-      systems = [
-        "x86_64-linux"
-        "aarch64-linux"
-      ];
-      imports = [
-        inputs.treefmt-nix.flakeModule
-        inputs.mc-config.flakeModules.mc-config
-        inputs.flake-parts.flakeModules.easyOverlay
-      ];
-      perSystem = {
-        config,
-        pkgs,
-        system,
-        lib,
-        ...
-      }: {
-        minecraftConfigurations.default = inputs.mc-config.lib.minecraftConfiguration {
-          inherit pkgs;
-          modules = [./minecraft.nix];
-        };
-        treefmt = {
-          projectRootFile = "flake.nix";
-          programs = {
-            alejandra.enable = true;
-            prettier.enable = true;
+  outputs =
+    inputs@{ flake-parts, ... }:
+    flake-parts.lib.mkFlake { inherit inputs; } (
+      { self, inputs, ... }:
+      {
+        systems = [
+          "x86_64-linux"
+          "aarch64-linux"
+        ];
+        imports = [
+          inputs.treefmt-nix.flakeModule
+          inputs.mc-config.flakeModules.mc-config
+          inputs.flake-parts.flakeModules.easyOverlay
+        ];
+        perSystem =
+          {
+            config,
+            pkgs,
+            system,
+            lib,
+            ...
+          }:
+          {
+            minecraftConfigurations.default = inputs.mc-config.lib.minecraftConfiguration {
+              inherit pkgs;
+              modules = [ ./minecraft.nix ];
+            };
+            treefmt = {
+              projectRootFile = "flake.nix";
+              programs = {
+                nixfmt.enable = true;
+                prettier.enable = true;
+                keep-sorted.enable = true;
+              };
+              settings.formatter = {
+                keep-sorted = {
+                  includes = lib.mkForce [ "*.nix" ];
+                };
+              };
+            };
           };
-        };
-      };
-    });
+      }
+    );
 }

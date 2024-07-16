@@ -130,10 +130,10 @@
       }
     },
     {
-      "filename": "reeses_sodium_options-1.7.2+mc1.21.jar",
+      "filename": "reeses_sodium_options-1.7.3+mc1.21.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/DNJFe2me/reeses_sodium_options-1.7.2%2Bmc1.21.jar",
-        "sha512": "0efb27850ca643f2e51eb5b42bd657eb8e301dd1050acfb7a5c7b6e892fd3e2143eaf16e7d90d4917de6f76241ea99a27efd75b0a408173caf63529aa1fc0a5d"
+        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/6gZ19wc6/reeses_sodium_options-1.7.3%2Bmc1.21.jar",
+        "sha512": "2ee733c52ebd31e738ccb52b25beb0cbdb5175fbe9d8dc8bc6c2406c365c86655dc7ec535a64a8dd1d80facd284abb33b2d1c8f1414b4e9a80ee2e2c2fa3db68"
       }
     },
     {
@@ -172,10 +172,24 @@
       }
     },
     {
+      "filename": "servercore-fabric-1.5.4+1.21.jar",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/pdvZYDOA/servercore-fabric-1.5.4%2B1.21.jar",
+        "sha512": "3fd26c420a0aa1f1f910a24057414740b74e658b4299e01644101a9032a10c09db19eee11962691c810cf36d6035e2f942732d60c4c746e1e9c70c4dc8556671"
+      }
+    },
+    {
       "filename": "spark-1.10.73-fabric.jar",
       "file": {
         "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar",
         "sha512": "ddc0f8dfefc2006cbe56b397b8c5d7d5532763f3a67dc3f875a300428085a1eb5fa8963624eaf2e9b68bd65ad265c75bd55296af05141de2c1bc23fbd2818254"
+      }
+    },
+    {
+      "filename": "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/NusMqsjF/versions/pyiVLk9R/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar",
+        "sha512": "ef851d54a60e223e90cfd21da91effcdc70175dd32b194366ca3ba29646c9ebdbfb60a1eaa88070c4e9f83bd654da1344e67226dfdf5c68140db4ef693361353"
       }
     },
     {
@@ -249,10 +263,38 @@
       }
     },
     {
-      "filename": "fuji-1.2.7.jar",
+      "filename": "easywhitelist-mc1.20-rc1-1.0.1.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/qPMzPTyC/fuji-1.2.7.jar",
-        "sha512": "ad669e89a4e0ca0a7bf90696936077c9a659d04f6eef987960777b5fa5006aedd9f95da4cf1e3bba6228d12c45b74b46d75af7e54ae5a0e7d0e0e7518eade22d"
+        "url": "https://cdn.modrinth.com/data/LODybUe5/versions/4ndHE533/easywhitelist-mc1.20-rc1-1.0.1.jar",
+        "sha512": "866ec5db1397b64c327970ff888d94a4ce1ddaae4d3f3f8e221dc0cd2c6c607d3d8b9f8ca2a6fab70aaa5be7ae9a2147d716b6a6b6dc0d77ef43cc3ab9da985e"
+      }
+    },
+    {
+      "filename": "fuji-1.2.8.jar",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/yaiffngZ/fuji-1.2.8.jar",
+        "sha512": "731edde79fb729fb1fb7c2ab1ea1dc697bfacb599ce354d031e578f8013cf3317435a9b873976d9f6eef736ea94cf37ed900ec11bb7544e31be42599d4266132"
+      }
+    },
+    {
+      "filename": "skin-restorer-2.0.1+1.21.jar",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/GmsEygyN/skin-restorer-2.0.1%2B1.21.jar",
+        "sha512": "df0f84d1898701de0b5e0b0bf4ca8e938b0f646464f9977147b60cd0af2a387f32ab90b9ee1c291058f64ed182c3f9fcde7017b57b2f78c711af2451f59f0b5a"
+      }
+    },
+    {
+      "filename": "styledplayerlist-3.5.1+1.21.jar",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/DQIfKUHf/versions/Ui7MOgqG/styledplayerlist-3.5.1%2B1.21.jar",
+        "sha512": "6976dbc5dafff329aea18b2a7fc20436640271511d9fc1714b77620382e4e46754c91400964d3fc729c62d78bd7b204521ebda904e59e9192b2866c024918004"
+      }
+    },
+    {
+      "filename": "fabric-carpet-1.21-1.4.147+v240613.jar",
+      "file": {
+        "url": "https://edge.forgecdn.net/files/5425/253/fabric-carpet-1.21-1.4.147%2bv240613.jar",
+        "sha1": "54f2907d83e67283d165336f26e5219d4bd36037"
       }
     },
     {
@@ -274,6 +316,13 @@
       "file": {
         "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SSk6KqP7/voicechat-fabric-1.21-2.5.19.jar",
         "sha512": "6499ed41ab959b8b18a7020f4ab07392d912be891a9876fef27f24e23e72abc461cdf3cff36d045c20b309f937383e97f39d1faef8c13d36090fa575b84d9d2f"
+      }
+    },
+    {
+      "filename": "Axiom-3.2.1-for-MC1.21.jar",
+      "file": {
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/D3uDJmiB/Axiom-3.2.1-for-MC1.21.jar",
+        "sha512": "8636d92120df7fa3752dbf229cf80775359b6420b4f80622363aa8c90101351b35719388122f7cdb8cbee10d6e20e92597f5d393ec8955742de0df4827c502d4"
       }
     }
   ],

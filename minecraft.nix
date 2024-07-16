@@ -1,4 +1,5 @@
-{pkgs, ...}: {
+{ pkgs, lib, ... }:
+{
   name = "minecraft";
   lock.file = ./minecraft.lock;
   minecraft = {
@@ -46,7 +47,9 @@
 
       # client&server-side optimization
       "https://modrinth.com/mod/ferrite-core"
+      "https://modrinth.com/mod/servercore"
       "https://modrinth.com/mod/spark"
+      "https://modrinth.com/mod/stackdeobf"
 
       # server plugin
       "https://modrinth.com/mod/luckperms"
@@ -59,12 +62,17 @@
       "https://modrinth.com/mod/veinminer"
       "https://modrinth.com/mod/ledger"
       "https://modrinth.com/mod/easyauth"
+      "https://modrinth.com/mod/easywhitelist"
       "https://modrinth.com/mod/fuji"
+      "https://modrinth.com/mod/skinrestorer"
+      "https://modrinth.com/mod/styledplayerlist"
+      "https://www.curseforge.com/minecraft/mc-mods/carpet"
 
       # client&server addons
       "https://modrinth.com/mod/wthit"
       "https://modrinth.com/mod/appleskin"
       "https://modrinth.com/plugin/simple-voice-chat"
+      "https://modrinth.com/mod/axiom"
 
       # not supported yet
       # "https://modrinth.com/plugin/unifiedmetrics"
@@ -74,23 +82,85 @@
       "https://modrinth.com/shader/complementary-unbound"
       "https://modrinth.com/shader/complementary-reimagined"
     ];
-    resourcePacks = [
-      "https://modrinth.com/resourcepack/fast-better-grass"
-    ];
+    resourcePacks = [ "https://modrinth.com/resourcepack/fast-better-grass" ];
+    files = {
+      "server-icon.png" = {
+        type = "server";
+        source = ./assets/server-icon.png;
+      };
+    };
     launchScript = {
       inheritPath = true;
       path = with pkgs; [
         gnused
+        yq-go
       ];
-      preparation.modifySettings = {
-        text = ''
-          if [ -f config/EssentialCommands.properties ]; then
-            sed -i "/^use_permissions_api=/ s/=.*/=true/" config/EssentialCommands.properties
-            sed -i "/^home_limit=/ s/=.*/=1,3,5/" config/EssentialCommands.properties
-          fi
-        '';
-        deps = ["linkFiles"];
-      };
+      preparation.modifySettings =
+        let
+          json = pkgs.formats.json { };
+          fujiMixin = json.generate "fuji-mixin.json" {
+            modules = {
+              # keep-sorted start block=yes
+              afk.enable = true;
+              better_info.enable = true;
+              chunks.enable = true;
+              color.enable = true;
+              command_permission.enable = true;
+              config.enable = true;
+              deathlog.enable = true;
+              fake_player_manager.enable = true;
+              language.enable = true;
+              motd = {
+                enable = true;
+                enable_custom_server_icon = false;
+                list = [
+                  (lib.concatStringsSep "<newline>" [
+                    "<gradient:#70aacf:#4fcc4d>Pure Survival %server:version% / Up %server:uptime%</gradient>"
+                    "<gradient:#38cce5:#41b9ad>%fuji:server_playtime%🔥 %fuji:server_mined%⛏ %fuji:server_placed%🔳 %fuji:server_killed%🗡 %fuji:server_moved%🌍</gradient>"
+                  ])
+                ];
+              };
+              multi_obsidian_platform.enable = true;
+              ping.enable = true;
+              placeholder.enable = true;
+              profiler.enable = true;
+              pvp.enable = true;
+              reply.enable = true;
+              resource_world.enable = true;
+              seen.enable = true;
+              sit.enable = true;
+              # keep-sorted end
+            };
+          };
+          setProperty = property: value: "sed -i '/^${property}=/ s/=.*/=${value}/'";
+          copyAsset =
+            dir: file:
+            let
+              fullPath = "${dir}/${file}";
+              asset = "${./assets/${fullPath}}";
+            in
+            ''
+              mkdir --parents "${dir}"
+              cp "${asset}" "${fullPath}"
+              chmod u+w "${fullPath}"
+            '';
+        in
+        {
+          type = "server";
+          text = ''
+            # styled player list writes to this file
+            ${copyAsset "config/styledplayerlist/styles" "default.json"}
+
+            if [ -f config/fuji/config.json ]; then
+              yq --inplace --prettyPrint '. *= load("${fujiMixin}")' config/fuji/config.json
+            fi
+            if [ -f config/EssentialCommands.properties ]; then
+              ${setProperty "use_permissions_api" "true"} config/EssentialCommands.properties
+              ${setProperty "home_limit" "1,5,10"} config/EssentialCommands.properties
+            fi
+          '';
+          deps = [ "linkFiles" ];
+        };
     };
   };
 }
