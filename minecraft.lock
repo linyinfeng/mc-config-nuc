@@ -270,10 +270,10 @@
       }
     },
     {
-      "filename": "fuji-1.2.8.jar",
+      "filename": "fuji-1.2.9.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/yaiffngZ/fuji-1.2.8.jar",
-        "sha512": "731edde79fb729fb1fb7c2ab1ea1dc697bfacb599ce354d031e578f8013cf3317435a9b873976d9f6eef736ea94cf37ed900ec11bb7544e31be42599d4266132"
+        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/1kHPU373/fuji-1.2.9.jar",
+        "sha512": "e805da795d13c2b611ac407a717f8e37d889d80c1654f2292a734440c0047f6e60ac96c1755aaeb15f5627ea38a74f828f8a8cf75b7dadc05b432159b143ced6"
       }
     },
     {
