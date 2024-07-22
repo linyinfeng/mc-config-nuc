@@ -25,17 +25,17 @@
       }
     },
     {
-      "filename": "cloth-config-15.0.127-fabric.jar",
+      "filename": "cloth-config-15.0.128-fabric.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar",
-        "sha512": "b3059112661363955aa77f3cdc2993e7875089f6415179351869febd4bd35a221b75001ab4698e6105f3c0241698d0ffce645b5cae7fe9f90bdb3b96b74691d2"
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gY9NB5Rj/cloth-config-15.0.128-fabric.jar",
+        "sha512": "5d9823caffc721f852451aa244693591da8fdd2ee6bc3c4339e911269390439c89c7ee62a06bdaa0011f30ea578ba725fd4ff3481683994aa6a217b4b28e52e3"
       }
     },
     {
-      "filename": "architectury-13.0.4-fabric.jar",
+      "filename": "architectury-13.0.6-fabric.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/i0N0Veb4/architectury-13.0.4-fabric.jar",
-        "sha512": "7d9df2037cd474ae8f75c4d2800949e437111e42795a36b0951631452c36ac10e409f60f6dbac19a147c1bed5d29cb6caef386faf5f7aef4b485853e89fed348"
+        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/afBcyXjI/architectury-13.0.6-fabric.jar",
+        "sha512": "e1b2aeeb5ce17fe05314814274cc116c8f2aba325f5edc766caaf52445c69c79fd0f3235842d24df11346b3505a5befa5782a95b1992266097e558dd394d715b"
       }
     },
     {
@@ -95,10 +95,10 @@
       }
     },
     {
-      "filename": "RoughlyEnoughItems-16.0.729-fabric.jar",
+      "filename": "RoughlyEnoughItems-16.0.744-fabric.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/l5RqB76W/RoughlyEnoughItems-16.0.729-fabric.jar",
-        "sha512": "0cd8103f4eb77cc424b733dbc4a440dee0ae362595992a31ab98ad3cf3045464784226eba7128c58dae45f7a7d0d221752babec8e589da87c04fc46e673d55a8"
+        "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/zZfhaIzi/RoughlyEnoughItems-16.0.744-fabric.jar",
+        "sha512": "b4af418970aa7eaf3f85ddfc87729392b6bfee45bcf52e3ed1eaaf0b36277736443aea49bc5a63c21a31cb62e5fa90ec5773f913ef04ef325f0f653d787dabbe"
       }
     },
     {
@@ -270,10 +270,10 @@
       }
     },
     {
-      "filename": "fuji-1.3.0.jar",
+      "filename": "fuji-1.3.1.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/2EtaDkSI/fuji-1.3.0.jar",
-        "sha512": "a6ec2ef1029e0639bb5511c2146e641ef1ce2252ea4255e4d6cc28f31e9d44ba880d846a4fb340454f78d71f30c9316c4df19b9c35dd5e3d3fd48eb940adde94"
+        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/fwAIkirj/fuji-1.3.1.jar",
+        "sha512": "34fde1a94970b282d6c33948f2ff34c92821a53ae5b84636c47a4a0a224ff7d22fec4e33ca95e000a0b8d039fcebe401569cb7c63907d96ffedb1fd635e1be1d"
       }
     },
     {
