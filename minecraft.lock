@@ -214,10 +214,10 @@
       }
     },
     {
-      "filename": "worldedit-mod-7.3.4.jar",
+      "filename": "worldedit-mod-7.3.5.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/EjobaxpK/worldedit-mod-7.3.4.jar",
-        "sha512": "8b4f1abe5e39f3a1b6fc1a6ec9cd864a9d1ea51135233025c3e7921beb914ae2a7b1005837b06a3a21ef781ebcbbbf2bec8f196ef3a4323847a5cb317fe44131"
+        "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/srWerknn/worldedit-mod-7.3.5.jar",
+        "sha512": "3bea0b1bd38128cc4e7e686802ce8ac2d5750de438238c7487135978fc6fd8525e4457d86117c2b37e24fcc7ca37de1a4937fd61dac77a1e76d1b0cdf098a7ed"
       }
     },
     {
