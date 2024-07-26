@@ -102,13 +102,11 @@
             modules = {
               # keep-sorted start block=yes
               afk.enable = true;
-              better_info.enable = true;
-              chunks.enable = true;
+              carpet.enable = true;
               color.enable = true;
               command_permission.enable = true;
               config.enable = true;
               deathlog.enable = true;
-              fake_player_manager.enable = true;
               language.enable = true;
               motd = {
                 enable = true;
@@ -121,14 +119,13 @@
                 ];
               };
               multi_obsidian_platform.enable = true;
-              ping.enable = true;
               placeholder.enable = true;
               profiler.enable = true;
               pvp.enable = true;
-              reply.enable = true;
               resource_world.enable = true;
-              seen.enable = true;
               sit.enable = true;
+              top_chunks.enable = true;
+              world.enable = true;
               # keep-sorted end
             };
           };
