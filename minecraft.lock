@@ -4,10 +4,10 @@
   },
   "mods": [
     {
-      "filename": "fabric-api-0.100.7+1.21.jar",
+      "filename": "fabric-api-0.100.8+1.21.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/vMQdA5QJ/fabric-api-0.100.7%2B1.21.jar",
-        "sha512": "e5274a112a2acbef71278aba0181cfdb08ea5141e42da4af68dc50db49b6613884f78d6ebea3a8471689e42e5f0be735c9ffa167286805dc8f9b65e34715be8b"
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/iS2jNAxk/fabric-api-0.100.8%2B1.21.jar",
+        "sha512": "ab89df2bf5817cc9db87028c8fdcef4a1bc0c3726cac5f304a7c992706facb25d15d031058e95b83d1651749b6f6777eafe9ed1f1a852b525dd305bcf29465b7"
       }
     },
     {
@@ -109,10 +109,10 @@
       }
     },
     {
-      "filename": "InventoryProfilesNext-fabric-1.21-2.0.2.jar",
+      "filename": "InventoryProfilesNext-fabric-1.21-2.0.3.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/TfRhevlK/InventoryProfilesNext-fabric-1.21-2.0.2.jar",
-        "sha512": "fa16c1143c2ae00bb3a47c16e806cfe609e3f656146d26565e67dc511749593aab6bad15fe86e721ae539435702dab40da0a541390b9e5d47868d7248cb5d327"
+        "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/EvtrAXho/InventoryProfilesNext-fabric-1.21-2.0.3.jar",
+        "sha512": "ef8e620b3cc5532df8f017ec9a81dfe0fab6bbcd181d21471b7ff705edd4a21dcba8f90d49444133e8757b3acae3c652420907c1efe50f8c5506a9728301afd8"
       }
     },
     {
@@ -242,10 +242,10 @@
       }
     },
     {
-      "filename": "Veinminer-2.1.0.jar",
+      "filename": "Veinminer-2.1.1.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/OhduvhIc/versions/KTJOR6a7/Veinminer-2.1.0.jar",
-        "sha512": "cec416854b73f09a5e256fe744a8f695116494563fe0be1426f1f3e943f6dd25c8fe49259fe40bf03273fa1759d75430507eb9f6145f384c26f5394e39136406"
+        "url": "https://cdn.modrinth.com/data/OhduvhIc/versions/6SgR9oJl/Veinminer-2.1.1.jar",
+        "sha512": "9ff8d72c0f98a022d6568e351cfd6a2e348325982a5c7a01350b8accf4c2fa29ba2ae41d83b9a877534d4e52fe3ca728f0249941283d3002990d02517f6db235"
       }
     },
     {
