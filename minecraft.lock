@@ -270,10 +270,10 @@
       }
     },
     {
-      "filename": "fuji-1.3.5.jar",
+      "filename": "fuji-1.3.7.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/4HOfNzkd/fuji-1.3.5.jar",
-        "sha512": "40ac5bd178697ec02be8f27f8d43e3770b81cf6cd9b2763aac456ed9c90195ee61c6de0138bb3072f2e1c52de4e00821d3b86b0cce6f73dab0721faf27ac6743"
+        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/KCMwTwxe/fuji-1.3.7.jar",
+        "sha512": "cd94af3a1cfc7472aedabc9ae57becaaa79b98237129034a8f4ab51fde063dffcc43f596f888c7b9ebd4936952241de883ae5e803d07a6a1520bf07a777f33f7"
       }
     },
     {
@@ -305,10 +305,10 @@
       }
     },
     {
-      "filename": "appleskin-fabric-mc1.21-3.0.2.jar",
+      "filename": "appleskin-fabric-mc1.21-3.0.5.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/YxFxnyd4/appleskin-fabric-mc1.21-3.0.2.jar",
-        "sha512": "9d1259c87e19c6c1edb5d326cde6015b3d37a5da31bd0fb0b747f3c0d2c0b7d58a773f324f4d95c7984b25d7d2d9d783537be69187d54298d39fa2b4c865d682"
+        "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fG1xJao0/appleskin-fabric-mc1.21-3.0.5.jar",
+        "sha512": "32176384779f6e223ce6c68bfa3c505222be0d5a21606a195562b471d29b2f7af253bb42756dd66373475bb75582fc11c72d8bd2f311bd0f0ad06816e4f61a29"
       }
     },
     {
