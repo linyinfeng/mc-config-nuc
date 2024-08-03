@@ -39,10 +39,10 @@
       }
     },
     {
-      "filename": "libIPN-fabric-1.21-6.0.1.jar",
+      "filename": "libIPN-fabric-1.21-6.0.2.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/34NUh0ko/libIPN-fabric-1.21-6.0.1.jar",
-        "sha512": "337c09c3b42a1d6a8aae0abe98bb38089fa1dbac86a5a4b4c61b86f10fcab74fb15ec3abe5927821e9752e2d430afd59fe325191ae234946216795fe9f00cadc"
+        "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Gw5ZLCvi/libIPN-fabric-1.21-6.0.2.jar",
+        "sha512": "902dc4cbbe0bc8330d0776394ad2e59dbf3eddf631c7cad8e220809c6d4fe944cbe0caa8a0714a66b7965487b24aeb7394658497c54cc96b792059d45b64e800"
       }
     },
     {
@@ -242,10 +242,10 @@
       }
     },
     {
-      "filename": "Veinminer-2.1.1.jar",
+      "filename": "Veinminer-2.1.2.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/OhduvhIc/versions/6SgR9oJl/Veinminer-2.1.1.jar",
-        "sha512": "9ff8d72c0f98a022d6568e351cfd6a2e348325982a5c7a01350b8accf4c2fa29ba2ae41d83b9a877534d4e52fe3ca728f0249941283d3002990d02517f6db235"
+        "url": "https://cdn.modrinth.com/data/OhduvhIc/versions/ANgXxQU1/Veinminer-2.1.2.jar",
+        "sha512": "7e3b4f358826e1b9b1b1112c8466bd17ac30501100eddaeec4fb1ee8c1abc7f114c61e61fd709e08c2ea743264348273f003db613ab36778365c7c45f75d55bd"
       }
     },
     {
@@ -270,10 +270,10 @@
       }
     },
     {
-      "filename": "fuji-1.3.7.jar",
+      "filename": "fuji-1.3.9.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/KCMwTwxe/fuji-1.3.7.jar",
-        "sha512": "cd94af3a1cfc7472aedabc9ae57becaaa79b98237129034a8f4ab51fde063dffcc43f596f888c7b9ebd4936952241de883ae5e803d07a6a1520bf07a777f33f7"
+        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/16bZiXmM/fuji-1.3.9.jar",
+        "sha512": "69696edaaf2dd00092354374e9c184e9a3c2c3f6e3708b3743f8661c34c2dae3e8a9880db099cfe208d04f5b86638d639fe5ff8ee172b38d7df6b9eabc6d3010"
       }
     },
     {
