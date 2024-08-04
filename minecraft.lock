@@ -4,10 +4,10 @@
   },
   "mods": [
     {
-      "filename": "fabric-api-0.100.8+1.21.jar",
+      "filename": "fabric-api-0.101.0+1.21.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/iS2jNAxk/fabric-api-0.100.8%2B1.21.jar",
-        "sha512": "ab89df2bf5817cc9db87028c8fdcef4a1bc0c3726cac5f304a7c992706facb25d15d031058e95b83d1651749b6f6777eafe9ed1f1a852b525dd305bcf29465b7"
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hpxN9iW3/fabric-api-0.101.0%2B1.21.jar",
+        "sha512": "cb8b0f3c165508a00ebcb8ec01b2c409c5d14dd3d21cc445d807878027de5989637ce2f5efa5ea67f684e76f4c39fef14db70344d99a0bd80f7ab88dd0758299"
       }
     },
     {
@@ -109,10 +109,10 @@
       }
     },
     {
-      "filename": "InventoryProfilesNext-fabric-1.21-2.0.3.jar",
+      "filename": "InventoryProfilesNext-fabric-1.21-2.0.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/EvtrAXho/InventoryProfilesNext-fabric-1.21-2.0.3.jar",
-        "sha512": "ef8e620b3cc5532df8f017ec9a81dfe0fab6bbcd181d21471b7ff705edd4a21dcba8f90d49444133e8757b3acae3c652420907c1efe50f8c5506a9728301afd8"
+        "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/lghOtM1x/InventoryProfilesNext-fabric-1.21-2.0.4.jar",
+        "sha512": "f4c81ee9d4e3a81026d95bbac7c87b40fa4565d6b8506c6dc2fce507914d38692481db870705ab16480f52372fcb0aa2c2018bf7dab166e89e90d54b056a948e"
       }
     },
     {
@@ -270,17 +270,17 @@
       }
     },
     {
-      "filename": "fuji-1.3.9.jar",
+      "filename": "fuji-1.4.0.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/16bZiXmM/fuji-1.3.9.jar",
-        "sha512": "69696edaaf2dd00092354374e9c184e9a3c2c3f6e3708b3743f8661c34c2dae3e8a9880db099cfe208d04f5b86638d639fe5ff8ee172b38d7df6b9eabc6d3010"
+        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/HtDTFzLn/fuji-1.4.0.jar",
+        "sha512": "a4791d9cc2592afd61c897adad3af481068a2c0195a3cd22ad717be01616310519a156b175a57e05f65c1d4a7f6b5cd604d2d380246f57ee77cd68d52ae0a78e"
       }
     },
     {
-      "filename": "skin-restorer-2.0.1+1.21.jar",
+      "filename": "skinrestorer-fabric-2.0.2+1.21.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/GmsEygyN/skin-restorer-2.0.1%2B1.21.jar",
-        "sha512": "df0f84d1898701de0b5e0b0bf4ca8e938b0f646464f9977147b60cd0af2a387f32ab90b9ee1c291058f64ed182c3f9fcde7017b57b2f78c711af2451f59f0b5a"
+        "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/qBnp0p6G/skinrestorer-fabric-2.0.2%2B1.21.jar",
+        "sha512": "2a47f7eb92091fd3fd093f9238305c741948165c523de024842a2e2855d3c858e0c6ed4310a3b5888dfddffade266c598f7723a5de3171da7cfd2893c1360624"
       }
     },
     {
