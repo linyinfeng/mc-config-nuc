@@ -4,10 +4,10 @@
   },
   "mods": [
     {
-      "filename": "fabric-api-0.101.0+1.21.jar",
+      "filename": "fabric-api-0.101.2+1.21.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hpxN9iW3/fabric-api-0.101.0%2B1.21.jar",
-        "sha512": "cb8b0f3c165508a00ebcb8ec01b2c409c5d14dd3d21cc445d807878027de5989637ce2f5efa5ea67f684e76f4c39fef14db70344d99a0bd80f7ab88dd0758299"
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EY5IAcV9/fabric-api-0.101.2%2B1.21.jar",
+        "sha512": "aff4569ae74fbcf2f19874b56ea9a811a9b2aee217641724b0ea6d764aa9e3c756becc7908c9bc6ac3fc3b613aad235f62188325b1d7439d23cb9d2c69d3bad8"
       }
     },
     {
@@ -270,10 +270,10 @@
       }
     },
     {
-      "filename": "fuji-1.4.0.jar",
+      "filename": "fuji-1.4.3.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/HtDTFzLn/fuji-1.4.0.jar",
-        "sha512": "a4791d9cc2592afd61c897adad3af481068a2c0195a3cd22ad717be01616310519a156b175a57e05f65c1d4a7f6b5cd604d2d380246f57ee77cd68d52ae0a78e"
+        "url": "https://cdn.modrinth.com/data/1TowMm2v/versions/xb3lq2w4/fuji-1.4.3.jar",
+        "sha512": "6d12ba05d6c0076b80b87c1e362e8a613cee4cd98629f8333eabd07a8081bc1c7ff77daf84d3f59a945e26b45395aa5da31fbd52e4a4f31a42c209f7d1d76467"
       }
     },
     {
@@ -298,10 +298,10 @@
       }
     },
     {
-      "filename": "wthit-fabric-12.2.3.jar",
+      "filename": "wthit-fabric-12.2.4.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/jr0RQT4i/wthit-fabric-12.2.3.jar",
-        "sha512": "604f9d447b52dc8be8fcc06d5f857148e5c8b23ca9e017829583efb88eaffdb57736cffd51bbb2256c828143fc9089876b374ee1936d549d7ae54e8750b41d23"
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/PMExVaZJ/wthit-fabric-12.2.4.jar",
+        "sha512": "1f4484120489b625207267548debbbbfa23af521f6f8c99e4aed17415ba844a8f77d227469f8e2ab5d3f69ae627720e9697fb3a26a4af840840f9e101f8f9f94"
       }
     },
     {
