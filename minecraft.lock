@@ -4,10 +4,10 @@
   },
   "mods": [
     {
-      "filename": "fabric-api-0.101.2+1.21.jar",
+      "filename": "fabric-api-0.102.0+1.21.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EY5IAcV9/fabric-api-0.101.2%2B1.21.jar",
-        "sha512": "aff4569ae74fbcf2f19874b56ea9a811a9b2aee217641724b0ea6d764aa9e3c756becc7908c9bc6ac3fc3b613aad235f62188325b1d7439d23cb9d2c69d3bad8"
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/oGwyXeEI/fabric-api-0.102.0%2B1.21.jar",
+        "sha512": "11732c4e36c3909360a24aa42a44da89048706cf10aaafa0404d7153cbc7395ff68a130f7b497828d6932740e004416b692650c3fbcc1f32babd7cb6eb9791d8"
       }
     },
     {
@@ -312,10 +312,10 @@
       }
     },
     {
-      "filename": "voicechat-fabric-1.21-2.5.19.jar",
+      "filename": "voicechat-fabric-1.21-2.5.20.jar",
       "file": {
-        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SSk6KqP7/voicechat-fabric-1.21-2.5.19.jar",
-        "sha512": "6499ed41ab959b8b18a7020f4ab07392d912be891a9876fef27f24e23e72abc461cdf3cff36d045c20b309f937383e97f39d1faef8c13d36090fa575b84d9d2f"
+        "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/68izPAqu/voicechat-fabric-1.21-2.5.20.jar",
+        "sha512": "05f530cdb1431930e83b8ed914053d54f123121240a3fee2d495b23faef75c34d5f6ab72e8bf952002f9cd1584c889462028ffec67801371b57749e0a50a0367"
       }
     },
     {
